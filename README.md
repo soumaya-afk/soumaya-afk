@@ -8,15 +8,18 @@
   <img src="profile.png" width="300" style="border-radius:50%;"/>
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
               background: rgba(0,0,0,0.5); padding: 20px 30px; border-radius: 15px;
-              text-align: center; color: #fff; font-weight: bold;">
+              text-align: center; font-weight: bold;">
               
     <!-- Animated Gradient Name -->
-    <h1 style="font-size: 2em; margin-bottom: 10px; background: linear-gradient(270deg, #ff0080, #7928ca, #00ffff, #ff0080);
-               background-size: 800% 800%; -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+    <h1 style="font-size: 2.2em; margin-bottom: 10px; 
+               background: linear-gradient(270deg, #ff0080, #7928ca, #00ffff, #ff0080);
+               background-size: 800% 800%; -webkit-background-clip: text; 
+               -webkit-text-fill-color: transparent;
                animation: gradientAnimation 8s ease infinite;">
       Soumaya Mchita
     </h1>
 
+    <!-- Description & Coordinates -->
     <p style="font-size: 1.1em; margin: 5px 0; color:#ffffff; text-shadow: 0 0 5px #00ffff;">
       🎓 Software Architecture Engineering Student
     </p>
